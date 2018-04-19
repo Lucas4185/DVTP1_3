@@ -1,10 +1,11 @@
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/Assets/AssetStoreTools*
+Practicum2/[Ll]ibrary/
+Practicum2/[Oo]bj/
+Practicum2/[Bb]uild/
+Practicum2/[Bb]uilds/
+Practicum2/WebGl/
+Practicum2/Assets/AssetStoreTools*
 
+testproj
 # Visual Studio 2015 cache directory
 /.vs/
 
